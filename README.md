@@ -17,3 +17,6 @@ Check it out: **[slashkeys.com](https://slashkeys.com)**
 ### Other things I build
 - Open-source agent skills ([scraper-skill](https://github.com/toniilic/scraper-skill) and more)
 - Automation scripts for daily workflows
+
+### Find me
+- 🎨 Design work on [Dribbble](https://dribbble.com/toniil)
