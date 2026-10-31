@@ -19,4 +19,4 @@ Check it out: **[slashkeys.com](https://slashkeys.com)**
 - Automation scripts for daily workflows
 
 ### Find me
-- 🎨 Design work on [Dribbble](https://dribbble.com/toniil)
+- 🎨 Design work on [Dribbble](https://dribbble.com/toniilic)
